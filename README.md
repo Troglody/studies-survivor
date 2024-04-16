@@ -1,4 +1,4 @@
-# Studies Survivor (Durée 2h)
+# Studies Survivor (Durée 1h30)
 
 Ce projet contient des fragments de jeu mais vous devrez développer certaines parties pour rendre le projet jouable.
 
@@ -45,3 +45,4 @@ Les files n'étant pas implémentables en blueprint, vous utiliserez un tableau 
 
 1. Utiliser les itérateurs de manière réfléchie.
 2. Eviter les traitements superflus.
+3. Améliorer la fonction **Execute()** du **Pistolet**.
